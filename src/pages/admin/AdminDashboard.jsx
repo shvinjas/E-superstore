@@ -35,7 +35,7 @@ const {getAllProduct,getAllOrder,getAllUser}=context
                 alt=""
                 https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
               /> */}
-               <img alt="testimonial" className="w-28 h-28 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="/public/img/B.png" />
+               <img alt="testimonial" className="w-28 h-28 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="/img/B.png" />
             </div>
             {/* text  */}
             <div className="">
